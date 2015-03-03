@@ -6,9 +6,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by Stout on 3/3/2015.
- */
 public class Town {
     private int population;
     private int numberOfTaverns;

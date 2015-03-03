@@ -2,9 +2,6 @@ package Buildings;
 
 import java.util.Random;
 
-/**
- * Created by Stout on 3/3/2015.
- */
 public class House {
     private int address;
     private String street;
