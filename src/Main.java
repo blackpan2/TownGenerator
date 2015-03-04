@@ -1,8 +1,9 @@
+import DrawTools.MakeMap;
+import Town.Town;
 
 public class Main {
-    public static void main(String[] args) {
 
-        Town town = new Town();
-        System.out.println(town);
+    public static void main(String[] args) {
+        MakeMap makeMap = new MakeMap();
     }
 }
